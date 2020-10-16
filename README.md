@@ -1,8 +1,8 @@
 # My ToDo
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). and [Material-UI](https://material-ui.com/).
 
-##Tasks: 
-###I.Todos: 
+## Tasks: 
+### I.Todos: 
         1.Create todo
         2.Perform todo
         3.Edit todo
@@ -10,7 +10,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
         5.Search todos
         6.All task visible for all.
         7.Every user can perform all tasks.
-###II.Users(local save - Redux):
+### II.Users(local save - Redux):
           1.Register user
           2.Login 
           3.User
