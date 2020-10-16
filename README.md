@@ -32,4 +32,7 @@ npm start
 Runs the app in the development mode.
 
 ## Some Images:
-
+1.Register Page
+![register](https://github.com/Alexpol19/MyToDo/blob/master/todoRegisterPage.png)
+2.Main Page. Edit mode open
+![register](https://github.com/Alexpol19/MyToDo/blob/master/todoMainAndEdit.png)
